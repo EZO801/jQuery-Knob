@@ -146,3 +146,8 @@ Supported browser
 Tested on Chrome, Safari, Firefox, IE>=8.0 (IE8.0 with excanvas).
 
 ![secretplan](https://raw.github.com/aterrien/jQuery-Knob/master/secretplan.jpg)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FjQuery-Knob.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FjQuery-Knob?ref=badge_shield)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2FjQuery-Knob.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2FjQuery-Knob?ref=badge_large)
